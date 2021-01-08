@@ -325,9 +325,9 @@ In this task you will import a solution that contains the Power Automate flow re
 
 1. Navigate back to the previous Power Apps tab. Click **Done** on the popup. Select **Solutions** on the left navigation bar and open your **Campus Management** solution.
 
-2. Click to open the **Visit** entity, then select the **Data** tab.
+2. Click to open the **Visit** table, then select the **Data** tab.
 
-3. Click **Active Visits** in the top right-hand corner to display the view selector, then select **All fields**. This will change the view that is being used to display the Visit data. 
+3. Click **Active Visits** in the top right-hand corner to display the view selector, then select **All columns**. This will change the view that is being used to display the Visit data. 
 
     > If you do not see **Active Visits** due to smaller resolution, you should see an eye icon in the same location.
 
